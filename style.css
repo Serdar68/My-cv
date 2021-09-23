@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Birthstone&family=Cinzel:wght@500&display=swap');
+
+
+
+body{
+    background-color: #b0d3bc;
+    font-family: 'Bebas Neue', cursive;
+}
+
+header{
+    text-align: center;
+    background-image: url(watercolour-1325656_960_720.webp);
+    
+}
+
+header ul{
+    list-style-type: none;
+}
+
+#name{
+    font-size: xx-large;
+}
+
+img{
+    height: 240px;
+    float: left;
+    border-radius: 5%;
+    box-shadow: 5px 5px rgba(56, 160, 151, 0.726);
+    border: 5px groove rgb(0, 0, 0);
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+main {
+    padding-top: 24px;
+    width: 75%;
+    margin: 32px auto;
+    padding: 24px;
+    border: 2px solid #5cbfc0;
+    border-radius: 8px;
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    background-image: url(watercolour-1325656_960_720-_copy_.jpg);
+    background-size: 300%;
+    
+}
+
+h1{
+    font-size: 72px;
+  margin-bottom: 0px;
+}
+
+.Profile{
+    margin-top: 0px;
+}
+
+span{
+    margin-left: 2rem;
+}
+
+.werdegang{
+    float: left;
+    margin-right: 50px;
+    
+}
+
+.jahre{
+    list-style-type: none;
+    margin-top: 35px;
+}
+
+.fa-github-square{
+    font-size: 1.5rem;
+    color: #d2e2caca;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    font-size: 1.5rem;
+    
+}
